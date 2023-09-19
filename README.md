@@ -1,3 +1,13 @@
+# 2023 - Real Project Management Board
+#### This is the repository with the source code developed from a web/app using Next.js 13 with : 
+#### ReactJS
+#### Tailwind CSS
+#### Typescript
+#### React Beautifull DnD Library
+#### Zustand
+#### Chat GPT-4
+#### Appwrite Cloud
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
