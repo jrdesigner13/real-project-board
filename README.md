@@ -12,6 +12,11 @@
 
 [`Preview`]https://real-project-board-7pk7zgldl-junior-reals-projects.vercel.app).
 
+<img width="514" alt="Screenshot 2023-09-26 at 09 43 03" src="https://github.com/jrdesigner13/real-project-board/assets/38070740/ca96ebb9-8ae6-4473-82e6-0b2c3cb7c5f6">
+<img width="198" alt="Screenshot 2023-09-26 at 09 34 01" src="https://github.com/jrdesigner13/real-project-board/assets/38070740/75c8ecba-c6bb-4629-aca3-2f9aa82b8084">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
