@@ -18,6 +18,7 @@ function Header() {
 
   useEffect(() => {
     if(board.columns.size === 0) return;
+    
     setLoading(true);
 
     const fetchSuggestionFunc = async () => {
@@ -32,7 +33,7 @@ function Header() {
 
   return (
     <header>
-      <div className='flex flex-col md:flex-row items-center p-5 bg-gray-500/10
+      <div className='flex flex-col md:flex-row items-center p-2 bg-gray-500/10
       rounded-b-2x1'>
         <div className='
         absolute 
@@ -50,11 +51,11 @@ function Header() {
         -z-50' 
         />
         <Image 
-          src="https://jrrealsolutions.co.uk/images/logo.png"
+          src="https://jrrealsolutions.co.uk/images/logo150.png"
           alt="real solutions logo"
-          width={200}
-          height={100}
-          className='w-44 md:w56 pb-10 md:pb-0 object-contain'
+          width={115}
+          height={150}
+          className='w-44 md:w56 pb-5 md:pb-0 object-scale-down'
         />
         <div className='flex items-center space-x-5 flex-1 justify-end w-full'>
           <form className='flex items-center space-x-5 bg-white rounded-md p-2 shadow-md flex-1

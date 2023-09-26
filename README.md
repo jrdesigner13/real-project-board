@@ -8,6 +8,9 @@
 #### Chat GPT-4
 #### Appwrite Cloud
 #### Headless UI
+#### Deployment with Vercel
+
+[`Preview`]https://real-project-board-7pk7zgldl-junior-reals-projects.vercel.app).
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

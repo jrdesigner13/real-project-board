@@ -1,7 +1,7 @@
 import { databases, storage, ID } from '@/appwrite';
 import { getTodosGroupedByColumn } from '@/lib/getTodosGroupedByColumn';
 import uploadImage from '@/lib/uploadImage';
-import { Board, Image, Todo, TypedColumn } from '@/typings';
+import { Board, Column, Image, Todo, TypedColumn } from '@/typings';
 import { create } from 'zustand'
 
 interface BoardState {

@@ -13,7 +13,7 @@ const formatTodosForAI = (board: Board) => {
     (map, [key, value]) => {
       map[key as TypedColumn] = value.length;
       return map;
-    }, {} as { [key in TypeColumn]: number}
+    }, {} as { [key in TypedColumn]: number}
   );
 
   return flatArrayCounted;
